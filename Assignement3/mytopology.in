@@ -1,0 +1,33 @@
+num_of_bridges 10
+num_of_segments 8
+num_of_stations 0
+bridge 0 0 2
+bridge 1 1 2
+bridge 2 2 2
+bridge 3 4 2
+bridge 4 5 2
+bridge 5 6 2
+bridge 6 7 2
+bridge 7 8 2 
+bridge 8 10 2
+bridge 9 11 2
+port 0 0 0 1
+port 1 1 0 0
+port 2 0 1 7
+port 3 1 1 6
+port 4 0 2 2
+port 5 1 2 1
+port 6 0 3 6
+port 7 1 3 5
+port 8 0 4 6
+port 9 1 4 4
+port 10 0 5 5
+port 11 1 5 2
+port 12 0 6 6
+port 13 1 6 4
+port 14 0 7 5
+port 15 1 7 3
+port 16 0 8 4
+port 17 1 8 2
+port 18 0 9 2
+port 19 1 9 1
