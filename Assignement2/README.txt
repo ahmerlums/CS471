@@ -1,0 +1,1 @@
+First compile and Run the Server, and then compile and Run the Client. Also, provide same ports for both Client and Server in both parts. :)
